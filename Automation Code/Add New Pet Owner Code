@@ -1,0 +1,1 @@
+./katalonc -noSplash -runMode=console -projectPath="/Users/ericahudnell/Katalon Studio/v4q/v4q.prj" -retry=0 -testSuitePath="Test Suites/Add New Pet Owner Suite" -executionProfile="default" -browserType="Chrome" -apiKey="c99ebb26-1b4a-46d4-bfde-3ed44efb303c"
